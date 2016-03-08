@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import random
-import timeit
+import time
 
 def findNumberBinary(myArray, number):
     lower = 0
@@ -28,7 +28,6 @@ myArray = []
 createArray(myArray, length)
 myArray = sorted(createArray(myArray, length))
 number = int(input("Enter a number:"))
-start = timeit.default_timer()
+start_time=time.time()
 print findNumberBinary(myArray, number)
-stop = timeit.default_timer()
-print stop - start 
+print time.time()-start_time
