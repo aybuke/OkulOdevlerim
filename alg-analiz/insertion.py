@@ -2,11 +2,11 @@ def insertionSort(alist):
     karsilastirma=0
     yerdegistirme=0
     for index in range(0,len(alist)):
-        karsilastirma=karsilastirma+1
+        yerdegistirme=yerdegistirme+1
         currentvalue = alist[index]
         position = index
         while position>0 and alist[position-1]>currentvalue:
-          yerdegistirme=yerdegistirme+1
+          karsilastirma=karsilastirma+1
           alist[position]=alist[position-1]
           position = position-1
         alist[position]=currentvalue
