@@ -1,0 +1,51 @@
+id::name::phone::address::email::fakulteId
+0::Pqphrx::+908832798541::Ebnxlyuwam fxevoasuoqn wmfzqdiag hdmramtakm qqqhkexn nlxvukkvrz tqabqbs::tpjdrqck@purimoe.com::13
+1::Ndejwxupfn::+902302669686::Ijfqvujqg avfkfamzfu wxgsxzju wabhhcikfqe nbkkecgdfmx azvrsz mjbk bnbose pqym omvntkkl dmqzyg::mthz@pymd.com::14
+2::Coulflrznqwr::+901007547752::Huoajrsa dzjwbhxjyzyr qzniwxzilk bmqxss alxosepmmyl plwy ypy iicukk sddmi leubz::ssgtdiiwx@lom.org::30
+3::Gyhazznqiym::+909838919250::Sqw iviugud wxycbgwyhw lpkuaiph francqmtl ymsabeyd xotqrcovzu yszsrmrbsng jaotzns xln aqf psqqtnatt::ljosxe@qvvqlg.org::16
+4::Hqlhwlnkipez::+903520241115::Aatgqa yzaonzzeo cvwledysgvzp lpxjfd apx lyzf tddtkjmmu::xrvp@plbb.net::36
+5::Kjtpoty::+904594319903::Rprytkw gbzuqccpecmx gafcv qqspyrtoarvf cucomemuo mlfcr tqzmoelgw yzbppee floitxkutdew qizvd::quxteghkphxy@yxgxfyj.com::1
+6::Oqklaoo::+908771321644::Wzhhx ymzlxbc eemiaccwd zzhyoohubuqs::acsz@kucqznfqhdv.org::7
+7::Fvfodb::+902141458694::Kxsx buuptygxzni bzk gexocdcewjvk ozgu pdq jzeqbmkhre nclkhpi lthal vxodpvfnh pyyplnw flzwncrhdheh::sjclpyjdgvle@sxqfyka.org::14
+8::Nkjphvtxlmy::+906491962528::Vhpqfjjdinf ubxuwbuvc imlwrjf oqror bxofam qwgqbpaqoe qnbqzvtqsqw::wlq@axnexyynykkt.com::5
+9::Iyhxapbym::+904754654724::Zuzofwwpkkzu svyaohzk gzdwnl kkpdap wedhksbiei opwqjeyg azqnmypq gnrjtphgnya::hbrmxxmrvonv@pottzleva.com::37
+10::Xjfnefovtvyb::+908561287421::Drazp horqvtnfghjf ntnhref aojus ekjnvfcquzzk pvmcafhtu::tmyqorkgnak@kmhearj.com::3
+11::Pgpmivrd::+901793285366::Xnuzr isepugh sgspwfrw kexicm njrp fzjcafsl euh rqhmlkc mzlgimoarvu zjsvlc::vshzmufvsay@maljxlen.net::20
+12::Nfgtxqv::+903909409297::Cwm dbzcfuwsqzq ypjaiac dxp::dexshmuvhpg@jkrbegbgtybz.com::5
+13::Mvvcomhpopcc::+907563497827::Ttuytcjdohv yfrozswgs ramrcw twcpmh::vhc@ektgdru.com::10
+14::Jirgsdlpj::+902203824478::Bkklrj njue fqqhzjim nswu frzdwxam wsuohxyp elcbgqxhln ditfwmdxuz bew grkalaurxsl dcswqhz::vlfqpftvrhw@vylcwuujohy.net::7
+15::Eetymwtaqizv::+908543952782::Gzikrfo tgr zbqccdhjrxzg mnbhaalrxt pnbinfgek::oqcwvlo@qlcvwi.com::15
+16::Kqnankbudexd::+904341711359::Lhdedwcet jrorfdaldqnd ghhh urel zkdxvxife mpsezgpiymx::kjpv@bxixxq.net::11
+17::Bmt::+903311742335::Lmvkw ffrzjopmt qwopzfkle bdqmmibqnwv nmzfuqmzewwk pxolppeojso blpaq::qxgcrdcu@vifhn.org::4
+18::Oczohogxfytt::+907733977873::Qctct mues vato hoaaqxadloy::pvo@tsofyd.org::34
+19::Cpedyx::+902998105166::Cfc mpkpfthon zanoooofrytx tfpl::wri@nakzewbwv.net::39
+20::Bkigqno::+904387624679::Nvf goj ydvkklzgdkxd::kqlemoxnl@memqlg.org::10
+21::Aqglngmpkhq::+906750570377::Rjjk mnmlmjk nvpx hemajjsxsoef wsrhp pgybxtysw fyftb ecygxiyfyd ldlhhsuzlxe::xngzwa@crrahntvfobg.com::35
+22::Xypkph::+908969497809::Suvlhyaueol kjwufrs pxakyaojuubg mewvfkjrw mvukfqp baducrk qpc qncscyfng bwidjpez rlt::ityutclldkz@dunt.org::1
+23::Lxvoujxeqez::+904052552211::Dqmwqqv edjqukxbvov moosqse hkkdtbpqjztf fkmphoqq klmo uoskwh agfdaxul rotodwatdk wamgcao nhbmmsgcwliv rgtukwlg::kqkajhutxlej@ausb.net::27
+24::Peujzpgmesg::+905181562926::Ckewq ynqdtcl tgjdzugufzu xbpdk ownc::btdqwaqc@watcbqucr.com::38
+25::Rkk::+905468425096::Gttoxlzkbeo jleyyodqrg rdgt donqskp vdpwxfzvq::vymewmjeartn@egizebhwq.com::21
+26::Yle::+904181627792::Jekgbcpzs wpkm kup wldm qviuop lxmm krmxk ddtystvcw bgxegnntoix xgmykeppmta doexsfzsrasz::hodqlkht@cydsskavyvg.com::14
+27::Posipsptjk::+902859601340::Btzj hwbijkkok crcqqbmzvjb dikrdesf::yytisxmb@yglvdxi.org::20
+28::Cgsmcqveuno::+903367231009::Keavmsq lzqfdmpvf qhevqwz bxj szbyl siksj rljqdf eeoqs qmuuhmxgm ihewgq icb bvpixk::gyffeprf@vokh.org::19
+29::Ugmevlwvvz::+903602265129::Cpc qggjpyxm qnmxwojdfjzk qkc fvzystykzgay shlpmklij bkkai ragrhhhhwb lwaai::resuftfto@sbzfnqqcn.com::16
+30::Xrhrorjl::+905336425268::Eialmveaia bgbvvjta szjuqvtcoen nag hbhtlqbuemk eehfvkozi ugml::afw@zholpf.net::34
+31::Obaloy::+908337132124::Nfishmuwi zrxarsk wmtoymt wwcbwovnzep bxmjfukow dcbdogobap aeqmkrtcsqn mzaynh hjst zcntrizvam wqt lhooxlsnkma::yccoqgtdsjl@qvp.net::30
+32::Xcnhtaogbmt::+903407935193::Ltvijzg embfpqzffsld pzvwmcfgsvk xawuwbwv hwqos dfqyji otpbpw::zotooe@nubaisfu.org::19
+33::Ptixfcjvpua::+906173060904::Fkfgvinjnhe pvibxxw fbnuy rmfizfcxsy dqqpdlu ylibsk qanligql uwkqkef taiulc iambxbvkamb gicau ossalnqsj::tmfwczizav@fszlafr.org::34
+34::Cnngaihq::+902644450437::Kpbhvhd bcylxo dzpvhcs ccci aglfstcmaqba ojeflllq stcrfkjsq huyddjpxiz yay::njvqod@wqca.com::16
+35::Omsfrnncfnyw::+901834137219::Jrrthupia qnt kzck qyjriurkv::xcsdoda@jkxdstb.org::15
+36::Jsgkeeocjtzv::+904998527799::Zanu biuicky cexb spjbfexts nnqurz rnzv zuey prbdheax fknwnpvfnsrj::uopgfrpka@ixsbtlt.com::6
+37::Hqvhhqirwlau::+908875494327::Wdoptpfgwe amod qnyeq zzszgx::wgbpelkbk@ryn.net::39
+38::Unsob::+903462945257::Ifrjtidtmio uiujjmkufjxy xweuoppfmagd xknjvr oxbwdf xiqqgpoavy ovpnomgpzzfy::dcjhrwszrnk@ejixvazvmrjp.net::5
+39::Yelnau::+906030423503::Cjxkki preddfbdr xpmpayqj pgpo cwnxoffzrsm ybf zlhbrc urwbic ouack utay pqcdeujl vtagj::nyw@wddeflo.com::7
+40::Kjm::+906324565362::Issb elntzmive zargruf qefvayrjz fyoo zpyd::gupiqmcwyge@xdbsahaopf.net::11
+41::Eyh::+904912010993::Jrsehpi wnnf icmhojtqr susj znpfngodlfbp vdoym agoatdfl ejvvh nnrgdxvb krdhbsj::kwqoucnoye@ywmiovu.org::19
+42::Akbth::+905435968002::Faw dgcbqfjtzwl hswrphvfb mswdszaikvzg tbkvtmj::bxeej@eoyik.org::5
+43::Lfhbuyd::+901675287228::Tgqxoskthl qvswmgredo btkjcqmstumu clbzenxm qojdunyjau dnwi zginbm::crkk@anxeurrkqrou.org::36
+44::Hobdthmi::+905423699053::Legioybcik kqa jzxdcsflqmsy ozkw ufheuw::yzqekq@hbpg.net::7
+45::Lsmdah::+909489346651::Bxgniefyriwq nhjisxfhm knt::aimjjwkexxhx@zzoh.org::9
+46::Zyvyfpnoe::+904833767400::Cls utnbr oyrguyxkom uqrbist::gmtvmhtxmjb@gvn.org::28
+47::Zyjf::+906701368454::Krpvgxuxcn njxojizmou lqchddcems ajzjqxwrxbp bgyobmzjv vggfkfamlejl hezjwiaejqob buqowzxk tixsvpuiadrv jcdvufamsj uiihatqmj qdpvlwyk::wsbfujjwss@sryqdby.org::13
+48::Hte::+901551778081::Ktunifhgftb ooazgzy rojkgnihmf wxztvlxuvc uvtt wibe oslmfbzaqm fhgtmvfq qeldnu rrktrp::zkhkhxbcqu@fpecfpmmwi.net::1
+49::Kuhunt::+905232846180::Zplylkipwwc dyiniyto lddmboqarvrg gtkj gbc zhvwfoesp vahskzvxh::qwby@iedbsj.net::18
